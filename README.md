@@ -27,9 +27,11 @@ php artisan serve
 `git checkout -b welcome-section-dynamic` 
 - Here welcome-section-dynamic is use as example.
 
+
 ![2](https://user-images.githubusercontent.com/19493662/116362943-6d3dfc80-a824-11eb-9b9e-f65016d2bf4d.PNG)
 
 - Then you will see that git switched to a new branch.
+
 
 ![3](https://user-images.githubusercontent.com/19493662/116362967-74fda100-a824-11eb-836d-1845213f856f.png)
 
