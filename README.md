@@ -17,7 +17,7 @@ php artisan serve
 - You need to convert/Generate the Trello name into a branch name. 
 - For generating branch name you can use this [link](https://devtools.stackblitz.io/)
 - Here is the image as an example where you need to put what. 
-![0.png](https://i.ibb.co/6P3WfpN/image.png)
+![0.png](https://user-images.githubusercontent.com/19493662/116359281-70cf8480-a820-11eb-8623-93e2e28e8572.png)
 ![1.png](https://i.ibb.co/ZYCQxRM/1.png)
 
 #### Step:4 Create and switched to a new branch
